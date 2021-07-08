@@ -1,0 +1,100 @@
+{
+  "project_info": {
+    "project_number": "14657607664",
+    "project_id": "kasir-online-5015c",
+    "storage_bucket": "kasir-online-5015c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14657607664:android:a2174ec71fcfefb09d2f35",
+        "android_client_info": {
+          "package_name": "com.admin.kasironline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14657607664-4ak7oc63lgk16l7u519u3uuqrjlcrr8k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.admin.kasironline",
+            "certificate_hash": "4c508e4d4a008732b7f8de5f4c82d61a549e5aaf"
+          }
+        },
+        {
+          "client_id": "14657607664-ugo9d2d51evle3sgfc0bcfjoeo8vvhkk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.admin.kasironline",
+            "certificate_hash": "8eda457ff96769d114c1260cd81c0cbf7366e38f"
+          }
+        },
+        {
+          "client_id": "14657607664-p18f3ld2rv98udg3vbdsk888ua297uhn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfatbmKQcD2ETu_ZBMXF_8LnWDNS6e_4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14657607664-p18f3ld2rv98udg3vbdsk888ua297uhn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14657607664:android:1932e85ed750d4ae9d2f35",
+        "android_client_info": {
+          "package_name": "com.user.kasironline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14657607664-gurbecf3j8lqo1j2lvb5m1p7uikrrtmf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.user.kasironline",
+            "certificate_hash": "4c508e4d4a008732b7f8de5f4c82d61a549e5aaf"
+          }
+        },
+        {
+          "client_id": "14657607664-poq1nq833k1slumhfdl47huqr3mq0bog.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.user.kasironline",
+            "certificate_hash": "0aabfc512e53c9fe549143a5f5c1b5ba2491da3f"
+          }
+        },
+        {
+          "client_id": "14657607664-p18f3ld2rv98udg3vbdsk888ua297uhn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfatbmKQcD2ETu_ZBMXF_8LnWDNS6e_4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14657607664-p18f3ld2rv98udg3vbdsk888ua297uhn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
